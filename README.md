@@ -42,4 +42,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-The `GeneralHospital.bak` file is provided by Dalton_Ruer and can be downloaded from [here](https://community.qlik.com/t5/Healthcare/General-Hospital-SQL-Server-BAK-file/td-p/1493132).
+The `GeneralHospital.bak` file is provided by Dalton_Ruer on the Qlik Community Healthcare page or can be downloaded from [here](https://community.qlik.com/t5/Healthcare/General-Hospital-SQL-Server-BAK-file/td-p/1493132).
+
+**Link:** (https://community.qlik.com/t5/Healthcare/General-Hospital-SQL-Server-BAK-file/td-p/1493132)
