@@ -1,6 +1,6 @@
 # Surgical Outcome Analysis
 
-This project analyzes surgical outcome data to explore cost, profit, and resource usage in surgical procedures. The analysis includes advanced SQL queries, visualizations, and a machine learning model for prediction, all developed using DataSpell IDE.
+This project analyzes surgical outcome data to explore cost, profit, and resource usage in surgical procedures. The analysis includes advanced SQL queries, visualizations, and a machine learning model for prediction.
 
 ## Project Setup
 
